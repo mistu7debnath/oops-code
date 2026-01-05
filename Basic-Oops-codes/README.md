@@ -1,4 +1,4 @@
-# Basic OOPS Concepts in Java
+# Basic OOPS Concepts in Java:
 
 This repository contains simple and beginner-friendly Java programs
 to understand Object-Oriented Programming language (OOPS) concepts.
@@ -19,7 +19,7 @@ to understand Object-Oriented Programming language (OOPS) concepts.
 - Build a strong foundation for advanced Java topics
 
 
-## Learning Goals
+## Learning Goals:
 - Understand core OOPS principles using Java
 - Learn how real-world problems are modeled using classes
 - Build a strong foundation for advanced Java topics
@@ -30,7 +30,7 @@ to understand Object-Oriented Programming language (OOPS) concepts.
 - Students preparing for exams
 - Anyone revising OOPS concepts
 
-## Technology Used
+## Technology Used here:
 - Java
 - Object-Oriented Programming
 
