@@ -28,6 +28,7 @@ public class InheritanceExample {
 }
 
 
-/* Animal is eating
+/* Now the output is:
+
 Dog is barking
  */
