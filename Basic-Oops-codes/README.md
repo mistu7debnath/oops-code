@@ -36,4 +36,4 @@ to understand Object-Oriented Programming language (OOPS) concepts.
 
 ✨ Happy Coding!
 
-Thank you for visiting my repo
+Thank you for visiting my repository
