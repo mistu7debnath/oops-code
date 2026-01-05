@@ -1,4 +1,4 @@
-//Explain Encapsulation in Java with a suitable example.
+**//Explain Encapsulation in Java with a suitable example.**
 class Student {
     // private data members
     private String name;
