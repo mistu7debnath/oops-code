@@ -25,10 +25,16 @@ class Student {
 public class EncapsulationExample {
     public static void main(String[] args) {
         Student s = new Student();
-        s.setName("Mistu");
-        s.setAge(20);
+        s.setName("Misali");
+        s.setAge(25);
 
         System.out.println("Name: " + s.getName());
         System.out.println("Age: " + s.getAge());
     }
 }
+
+
+/* THe output of the code is:
+Name: Misali
+Age: 25
+ */
