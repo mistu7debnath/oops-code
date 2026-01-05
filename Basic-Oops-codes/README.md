@@ -3,17 +3,17 @@
 This repository contains simple and beginner-friendly Java programs
 to understand Object-Oriented Programming language (OOPS) concepts.
 
-## Concepts Covered
+## Concepts Covered:
 - Classes and Objects
 - Encapsulation
 - Inheritance
 - Polymorphism
 - Abstraction
 
-## Folder Structure
+## Folder Structure:
 - **Basic-Oops-codes/** – Contains Java programs demonstrating OOPS concepts
 
-## Learning Goals
+## Learning Goals:
 - Understand core OOPS principles using Java
 - Learn how real-world problems are modeled using classes
 - Build a strong foundation for advanced Java topics
