@@ -16,3 +16,7 @@ public class PolymorphismExample {
         s.draw();
     }
 }
+
+/*
+Bike starts with key
+ */
