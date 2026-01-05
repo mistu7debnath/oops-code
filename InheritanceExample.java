@@ -26,3 +26,8 @@ public class InheritanceExample {
         d.bark();
     }
 }
+
+
+/* Animal is eating
+Dog is barking
+ */
