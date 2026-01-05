@@ -19,6 +19,12 @@ to understand Object-Oriented Programming language (OOPS) concepts.
 - Build a strong foundation for advanced Java topics
 
 
+## Learning Goals
+- Understand core OOPS principles using Java
+- Learn how real-world problems are modeled using classes
+- Build a strong foundation for advanced Java topics
+
+
 ## Who Can Use This?
 - Beginners learning Java
 - Students preparing for exams
