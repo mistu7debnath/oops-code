@@ -1,3 +1,5 @@
+//Explain Inheritance in Java with a suitable example.
+
 // Parent class
 class Animal {
     void eat() {
