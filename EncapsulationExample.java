@@ -35,7 +35,7 @@ public class EncapsulationExample {
 }
 
 
-/* THe output of the code is:
+**/* THe output of the code is:
 Name: Misali
 Age: 25
- */
+ */**
