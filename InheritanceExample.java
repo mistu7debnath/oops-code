@@ -1,4 +1,4 @@
-//Explain Inheritance in Java with a suitable example.
+**//Explain Inheritance in Java with a suitable example.**
 
 // Parent class
 class Animal {
@@ -28,8 +28,8 @@ public class InheritanceExample {
 }
 
 
-/* Now the output is:
+** /* Now the output is:
 Animal is eating
 Dog is barking
 
- */
+ */**
