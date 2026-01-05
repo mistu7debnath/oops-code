@@ -17,6 +17,6 @@ public class PolymorphismExample {
     }
 }
 
-/*
+/*The output of the code is:
 Bike starts with key
  */
