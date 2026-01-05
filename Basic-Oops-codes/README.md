@@ -1,7 +1,7 @@
 # Basic OOPS Concepts in Java
 
 This repository contains simple and beginner-friendly Java programs
-to understand Object-Oriented Programming (OOPS) concepts.
+to understand Object-Oriented Programming language (OOPS) concepts.
 
 ## Concepts Covered
 - Classes and Objects
