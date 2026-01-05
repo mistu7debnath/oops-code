@@ -29,6 +29,7 @@ public class InheritanceExample {
 
 
 /* Now the output is:
-
+Animal is eating
 Dog is barking
+
  */
