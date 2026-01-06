@@ -1,4 +1,4 @@
-//Explain polymorphism in Java with a suitable example.
+**//Explain polymorphism in Java with a suitable example.**
 class Shape {
     void draw() {
         System.out.println("Drawing a shape");
@@ -18,6 +18,6 @@ public class PolymorphismExample {
     }
 }
 
-/*The output of the code is:
+**/*The output of the code is:
 Bike starts with key
- */
+ */**
