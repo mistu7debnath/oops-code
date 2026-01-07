@@ -16,7 +16,7 @@ Each concept is implemented using **simple Java programs** for better understand
 
 ---
 
-diagrams
+
 
 🙌 Author
 
