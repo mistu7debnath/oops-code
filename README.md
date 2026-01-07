@@ -25,6 +25,7 @@ Manisha Debnath
 
 ## 🚀 How to Run
 
-1. Clone the repository  
-   ```bash
-  ** git clone https://github.com/mistu7debnath/oops-code.git**
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/mistu7debnath/oops-code.git
+
