@@ -23,3 +23,8 @@ Each concept is implemented using **simple Java programs** for better understand
 Manisha Debnath
 🎓 Student | 💻 Java Learner
 
+## 🚀 How to Run
+
+1. Clone the repository  
+   ```bash
+  ** git clone https://github.com/mistu7debnath/oops-code.git**
