@@ -1,4 +1,4 @@
-# 📘 OOPs(Object Oriented Programming) Concepts in Java
+# 📘 OOPs(Object Oriented Programming) Concepts in Java:
 
 This repository contains **basic and clear examples of Object-Oriented Programming (OOPs) concepts in Java**.  
 It is created for **learning, revision, and practice** of core concepts Java fundamentals.
@@ -18,7 +18,7 @@ Each concept is implemented using **simple Java programs** for better understand
 
 
 
-🙌 Author
+🙌 Author:
 
 Manisha Debnath
 🎓 Student | 💻 Java Learner
