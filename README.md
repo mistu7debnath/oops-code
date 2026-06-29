@@ -5,7 +5,7 @@ It is created for **learning, revision, and practice** of core concepts Java fun
 
 ---
 
-## 🧠 Concepts Covered
+## 🧠 Concepts Covered in this 
 
 - 🔹 **Abstraction**
 - 🔹 **Encapsulation**
