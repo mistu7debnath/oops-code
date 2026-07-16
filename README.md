@@ -12,7 +12,7 @@ It is created for **learning, revision, and practice** of core concepts Java fun
 - 🔹 **Inheritance**
 - 🔹 **Polymorphism**
 
-Each concept is implemented using **simple Java programs** for better understanding of the concept of Java.
+Each concept is implemented using **simple Java programs** for better understanding of the concept of Oops  Java.
 
 ---
 
