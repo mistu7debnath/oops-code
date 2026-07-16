@@ -23,7 +23,7 @@ Each concept is implemented using **simple Java programs** for better understand
 Manisha Debnath
 🎓 Student | 💻 Java Learner
 
-## 🚀 How to Run
+## 🚀 How to Run the Codes
 
 ### 1️⃣ Clone the repository
 ```bash
