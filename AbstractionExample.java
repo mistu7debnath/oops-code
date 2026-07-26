@@ -1,4 +1,4 @@
-//Explain the abstraction in Java with a suitable example.
+//Explain the abstraction in Java with a easy suitable example.
 abstract class Vehicle {
     abstract void start();
 }
