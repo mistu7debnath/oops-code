@@ -1,4 +1,4 @@
-**//Explain Inheritance in Java with a help suitable example.**
+**//Explain Inheritance in Java with a help of suitable example.**
 
 // Parent class
 class Animal {
