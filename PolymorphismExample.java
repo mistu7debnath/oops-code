@@ -1,4 +1,4 @@
-**//Explain polymorphism in Java with a help suitable example.**
+**//Explain polymorphism in Java with a help of a suitable example.**
 class Shape {
     void draw() {
         System.out.println("Drawing a shape");
